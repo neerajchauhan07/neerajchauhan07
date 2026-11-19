@@ -1,8 +1,8 @@
 # Hi, I'm Neeraj Chauhan 👋
 
-### Data Analytics Enthusiast | Data Operations Professional | B.Com Graduate
+### Data Analytics Enthusiast | Data Entry/Data Management Operations  | B.Com Graduate
 
-I am a data operations professional with **5+ years of experience in the BPO industry**, working with large datasets, data management, Excel, internal business portals, and reporting.
+ **5+ years of experience in the BPO industry**, working with large datasets, data management, Excel, internal business portals, and reporting.
 
 I am currently transitioning into **Data Analytics** and building my technical skills in SQL, Power BI, and Python.
 
