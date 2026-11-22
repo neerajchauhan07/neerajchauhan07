@@ -1,6 +1,6 @@
 # Hi, I'm Neeraj Chauhan 👋
 
-### Data Analytics Enthusiast | Data Entry/Data Management Operations  | B.Com Graduate
+### Data Analytics Enthusiast | Data Entry/Data Quality/Data Management Operations  | B.Com Graduate
 
  **5+ years of experience in the BPO industry**, working with large datasets, data management, Excel, internal business portals, and reporting.
 
