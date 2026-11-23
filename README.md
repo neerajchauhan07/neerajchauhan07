@@ -53,7 +53,7 @@ I'm continuously learning, practicing, and working toward building practical dat
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/neeraj-chauhan-419580361/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/neerajchauhan07/)
 
 - 📧 Email: neerajc1211@gmail.com
 
