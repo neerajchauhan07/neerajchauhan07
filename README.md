@@ -13,7 +13,7 @@ I am currently transitioning into **Data Analytics** and building my technical s
 - 📗 Completed Advanced Excel
 - 🗄️ Completed MySQL / SQL
 - 📈 Completed Power BI
-- 🐍 Currently learning Python
+- 🐍 Completed Python for Data Analysis
 - 🎓 B.Com Graduate
 - 🎯 Currently looking for opportunities in Data Analytics, MIS, Reporting, and Data Operations
 
@@ -29,21 +29,7 @@ I am currently transitioning into **Data Analytics** and building my technical s
 - Data Analysis
 - Reporting
 - Data Visualization
-
-**Currently Learning**
-- Python
 - Python for Data Analysis
-
-### 📚 Currently Learning
-
-I'm currently focusing on Python and gradually expanding my knowledge of:
-
-- Python fundamentals
-- Pandas
-- NumPy
-- Data cleaning
-- Exploratory Data Analysis (EDA)
-- Data visualization
 
 ### 🚀 My Goal
 
